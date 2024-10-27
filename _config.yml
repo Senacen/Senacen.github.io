@@ -22,7 +22,7 @@ title: Duy Huynh
 email: duy@donggiang.com
 email: mdh59@cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio Website for Duy Huynh, a Cambridge Computer Science Undergraduate 
+  Portfolio for Duy Huynh, a Cambridge Computer Science Undergraduate 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
